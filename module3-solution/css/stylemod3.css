@@ -1,0 +1,33 @@
+.navbar-brand h1{
+	margin-top: 0px;
+	font-style:oblique;
+}
+
+/** header **/
+#header-nav{
+	border-radius: 0;
+	border:0;
+}
+
+body{
+	background-color: #ffffcc;
+}
+
+li{
+	text-align: center;
+	border: 2px;
+	border-color: black;
+}
+p{
+	font-size: 30px;
+}
+
+section h3{
+	font-style:oblique;
+}
+section{
+	background-color: #ff9999;
+	margin:20px auto 20px;
+	font-size:20px;
+	
+}
